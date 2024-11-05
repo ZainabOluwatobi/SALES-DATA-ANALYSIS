@@ -1,0 +1,24 @@
+PROJECT DESCRIPTION
+This project analyzes customer purchase behavior to identify trends and optimize sales. 
+The analysis uses data visualization to gain insights into customer purchasing patterns such as top-selling products and regional performance.
+
+DATA DESCRIPTION
+The data used in this analysis consists of customer purchas history and sales transaction from 2023 to 2024. 
+the data is in Excel format and contains 59,957 rows.
+
+ANALYSIS APPROACH
+- Data Cleaning using Excel
+- Data querying using MySQLServer
+- Data visualization using PowerBI
+
+RESULTS AND INSIGHTS
+The analysis reveals the following key findings:
+- The top-selling product in terms of quantity are hats.
+- The South region genrate most sales.
+- Shoes generate the highest revenue.
+
+CONCLUSION
+This analysis shows that getting a physical store in the South region will be a good idea since the highest revenue is generated from there.
+Also, more publicity or advertisement has to be done in the West and North in order to improve sales.
+
+
